@@ -1,5 +1,6 @@
 # STM32-ile-Trafik-Lambasi-Projesi
 STM32 kullanarak proteus üzerinden simülasyonunu hazırlayıp. STM32CUBEL IDE üzerinden C ile prograladığım trafik lambası projesidir.
+
 Proje dosyası içerisinde proteus , fritzing devre şeması ve dosyası , C dosyası bulunmaktadır.
 
 Uygulama Trafik lambası şeklinde çalışmaktadır .
